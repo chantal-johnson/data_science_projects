@@ -1,0 +1,2 @@
+HeartSafe medical device production
+Here i created business proposal for the production of two medical devices. I used mathematical optimization to decide how the company should best proceed with production of both products to maximise profits.
